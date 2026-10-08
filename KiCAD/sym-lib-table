@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "cm4-panel-jdi-lt070me05000-cache") (type "Legacy") (uri "C:/Users/Administrador/Documents/GitHub/cm4-panel-jdi-lt070me05000/KiCAD/cm4-panel-jdi-lt070me05000-cache.lib") (options "") (descr "Biblioteca de cache do projeto legado"))
+)
